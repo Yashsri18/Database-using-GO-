@@ -1,0 +1,12 @@
+{
+	"Name": "Harsh",
+	"Age": 22,
+	"Contact": "2",
+	"Company": "JM Finance",
+	"Address": {
+		"City": "san francisco",
+		"State": "california",
+		"Country": "USA",
+		"Pincode": 410013
+	}
+}

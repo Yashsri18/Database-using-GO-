@@ -1,0 +1,12 @@
+{
+	"Name": "Yash ",
+	"Age": 22,
+	"Contact": "1",
+	"Company": "idk",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 410013
+	}
+}
