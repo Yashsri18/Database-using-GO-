@@ -38,6 +38,7 @@ go mod tidy
 Running the Application
 To run the application, execute the following command:
 go run main.go
+I have commented out the delete function call. If you want to use the function just pass the name of resourse which you wanted to delete a particular file, other wise pass it empty (like this "" )
 
 Example Usage
 
